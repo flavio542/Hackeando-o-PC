@@ -4,7 +4,7 @@ from tkinter import messagebox
 
 count = 0
 
-msg_box = messagebox.showwarning("TOMO PAPUDO!", "VOCÊ FOI HACKEADO")
+msg_box = messagebox.showwarning("OI PRINCESA!", "VOCÊ FOI HACKEADA")
 
 if msg_box == 'ok':
     msg_box = messagebox.showwarning("PERA AI!", "PARA SER DESHACKEADO PRECISO QUE ME RESPONDA UMA PERGUNTA...")
